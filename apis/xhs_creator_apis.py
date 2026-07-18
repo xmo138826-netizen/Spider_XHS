@@ -205,7 +205,7 @@ class XHS_Creator_Apis():
         desc = noteInfo.get('desc', '')
         postTime = noteInfo.get('postTime')
         location = noteInfo.get('location')
-        privacy_type = noteInfo.get('type', 1)
+        privacy_type = noteInfo.get('type', 0)
         media_type = noteInfo.get('media_type', 'image')
 
         if location is not None:
@@ -294,6 +294,10 @@ class XHS_Creator_Apis():
         return success, msg, res_json
 
     def get_file_info(self, file, media_type="image"):
+        # 如果 file 是字符串路径，先读取文件内容
+        if isinstance(file, str):
+            with open(file, 'rb') as f:
+                file = f.read()
         file_size = len(file)
         if media_type == "image":
             image = cv2.imdecode(np.frombuffer(file, np.uint8), cv2.IMREAD_COLOR)

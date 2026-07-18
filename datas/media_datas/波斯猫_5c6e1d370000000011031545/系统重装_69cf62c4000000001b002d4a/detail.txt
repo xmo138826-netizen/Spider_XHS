@@ -1,0 +1,22 @@
+笔记id: 69cf62c4000000001b002d4a
+笔记url: https://www.xiaohongshu.com/explore/69cf62c4000000001b002d4a?xsec_token=ABXp5ja1JZPB1pf6KmdK2e7keqH6sHsQe7UfhZ4NDV1Zk=
+笔记类型: 图集
+用户id: 5c6e1d370000000011031545
+用户主页url: https://www.xiaohongshu.com/user/profile/5c6e1d370000000011031545
+昵称: 波斯猫
+头像url: https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo31c5jcssv0c005n3e3krke5a53297kn8
+标题: 系统重装
+描述: 1.找u盘存个win10
+2.找bios系统，以u盘开启
+3.重启重装
+4.主盘大小分区
+点赞数量: 497
+收藏数量: 472
+评论数量: 23
+分享数量: 64
+视频封面url: None
+视频地址url: None
+图片地址url列表: ['http://sns-webpic-qc.xhscdn.com/202607181849/61f3fb65621e7ca79a2f30d45598bec4/notes_pre_post/1040g3k031ug6rloc1m0g5n3e3krke5a5qehkgm0!nd_dft_wlteh_webp_3', 'http://sns-webpic-qc.xhscdn.com/202607181849/dc24d5b8a00d6afce193ad4b673c1a4c/notes_pre_post/1040g3k031ug6rloc1m1g5n3e3krke5a5q9v1gb8!nd_dft_wlteh_webp_3', 'http://sns-webpic-qc.xhscdn.com/202607181849/e0419847cdf5527f9e6834b0ea527eec/notes_pre_post/1040g3k031ug6rloc1m205n3e3krke5a5h4t8m3g!nd_dft_wlteh_webp_3', 'http://sns-webpic-qc.xhscdn.com/202607181849/6bb172110a4bfad5a4c83b4326a0e253/notes_pre_post/1040g3k031ug6rloc1m2g5n3e3krke5a5n8ofu98!nd_dft_wlteh_webp_3', 'http://sns-webpic-qc.xhscdn.com/202607181849/5a055608e5af7abff813827cecde4781/notes_pre_post/1040g3k031ug6rloc1m305n3e3krke5a5nuraimg!nd_dft_wlteh_webp_3']
+标签: []
+上传时间: 2026-04-03 14:48:36
+ip归属地: 未知
